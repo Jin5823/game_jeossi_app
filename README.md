@@ -16,4 +16,6 @@
 
 <img src="https://raw.githubusercontent.com/Jin5823/Git-Test/master/src/img_12.png" />
 
-## [졸업논문 페이지](https://github.com/Jin5823/game_jeossi_app/blob/master/%EC%A1%B8%EC%97%85%EB%85%BC%EB%AC%B8.pdf)
+## 상세내용
+
+[졸업논문 페이지](https://github.com/Jin5823/game_jeossi_app/blob/master/%EC%A1%B8%EC%97%85%EB%85%BC%EB%AC%B8.pdf)
